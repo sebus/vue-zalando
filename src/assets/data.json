@@ -1,0 +1,41 @@
+{
+  "id": "946df5528bg4900nf48",
+  "brand": "Anna Field",
+  "name": "Tee-shirt basique",
+  "rate": 407,
+  "details": ["50% Coton", "30% Laine", "20% Polyestère"],
+  "price": 12.99,
+  "variants": [
+    {
+      "id": "2377",
+      "color": "Bleu",
+      "hexaColor": "#2C2F47",
+      "image": {
+        "url": "https://res.cloudinary.com/lereacteur-apollo/image/upload/v1686410526/RNCP31114/cours-vue/projet-zalando/tshirt-blue_sow5rd.webp",
+        "alt": "Tee-shirt bleu"
+      },
+      "sizes": { "XS": 3, "S": 2, "M": 1, "L": 2, "XL": 0 }
+    },
+    {
+      "id": "2376",
+      "color": "Jaune",
+      "hexaColor": "#EFC006",
+      "image": {
+        "url": "https://res.cloudinary.com/lereacteur-apollo/image/upload/v1686410526/RNCP31114/cours-vue/projet-zalando/tshirt-yellow_dilmf1.webp",
+        "alt": "Tee-shirt jaune"
+      },
+      "sizes": { "XS": 0, "S": 2, "M": 2, "L": 2, "XL": 2 }
+    },
+
+    {
+      "id": "2378",
+      "color": "Rose",
+      "hexaColor": "#AE1856",
+      "image": {
+        "url": "https://res.cloudinary.com/lereacteur-apollo/image/upload/v1686410526/RNCP31114/cours-vue/projet-zalando/tshirt-pink_zpnwmz.webp",
+        "alt": "Tee-shirt rose"
+      },
+      "sizes": { "XS": 0, "S": 0, "M": 5, "L": 0, "XL": 3 }
+    }
+  ]
+}

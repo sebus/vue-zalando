@@ -1,0 +1,35 @@
+@import './base.css';
+
+:root {
+  --main-black: #1a1a1a;
+  --main-orange: #ff6900;
+  --light-grey: #efeff0;
+  --dark-grey: #666666;
+  --header-top-height: 32px;
+  --header-bottom-height: 60px;
+  --footer-height: 60px;
+}
+
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  color: var(--main-black);
+  margin: 0;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  /* border: 1px solid red; */
+}
+h1 {
+  font-size: 28px;
+  margin-bottom: 15px;
+  font-weight: bold;
+}
+
+h2 {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 28px;
+  line-height: 32px;
+  margin-bottom: 10px;
+}
